@@ -1,0 +1,11 @@
+body{
+    background: rgb(16,102,5);
+    background: linear-gradient(90deg, rgba(16,102,5,1) 1%, rgba(0,255,164,1) 27%, rgba(7,214,126,1) 50%, rgba(8,132,170,1) 72%, rgba(0,212,255,1) 100%); 
+}
+.logo img{
+    width: 10px;
+    height: 10px;
+}
+th a{
+    list-style: none;
+}
