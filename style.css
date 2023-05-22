@@ -43,3 +43,19 @@ table{
 tr:hover{
     background-color: rgb(172, 89, 250);
 }
+.logo2{
+    margin-right: 10px;
+    width: 3%;
+    height: 3%;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+}
+footer ul li{
+    display: inline-block;
+    width: 50%;
+}
+footer{
+    width: 50%;
+}
